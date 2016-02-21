@@ -1,4 +1,3 @@
-package pkg3n.pkg1.uva.pkg100;
 
 import java.io.IOException;
 import java.nio.file.Paths;
